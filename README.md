@@ -107,5 +107,5 @@ The project includes the following analytical steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fifa-world-cup-eda.git
+   git clone https://github.com/Sadat-Shakeeb/FIFA-World-Cup-EDA.git
    cd fifa-world-cup-eda
